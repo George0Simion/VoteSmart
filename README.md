@@ -77,9 +77,3 @@ Extinde `Human` și adaugă:
 - **Analiză voturi național:** Se utilizează o clasă internă `InfoRegiune` pentru a menține evidența voturilor pe regiune și a candidatului cu cele mai multe voturi.
 - **Gestionare fraude:** Se folosesc structuri FIFO pentru a menține ordinea fraudelor detectate.
 
-## Cazuri Limită Adiționale
-Pentru îmbunătățirea aplicației, aș adăuga verificări pentru:
-- **Validarea intrărilor incomplete sau incorecte**.
-- **Gestionarea CNP-urilor duplicate sau invalide**.
-- **Verificarea stărilor invalide ale alegerilor** (ex: încercarea de a porni o alegere deja începută).
-
